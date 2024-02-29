@@ -1,8 +1,8 @@
 {
   "name": "@unilim/iut-encrypt",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Module permettant d'encrypter un mot de passe en sha1",
+  "main": "encrypt.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
